@@ -1,0 +1,4 @@
+store_name,channel,feature,tags
+Rogers Inc. 1,marketing,me,tag1;tag2;tag3
+Rogers Inc. 2,marketing,me_2,tag1;tag2;tag3
+Rogers Inc. 3,email,me_3,tag1;tag2;tag3
