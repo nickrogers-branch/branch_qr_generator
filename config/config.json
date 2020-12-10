@@ -1,0 +1,15 @@
+{
+  "link_parameters": {
+    "~channel": "channel",
+    "~campaign": "campaign",
+    "~feature": "",
+    "~tags": "tags"
+  },
+  "meta_parameters": {
+    "csv_id_row": "qr_code_name"
+  },
+  "account_parameters": {
+    "branch_key": "***BRANCH_KEY_GOES_HERE***",
+    "link_domain": "***LINK_DOMAIN_GOES_HERE*** (e.g. nickrogers.app.link)"
+  }
+}
